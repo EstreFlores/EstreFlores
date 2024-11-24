@@ -14,6 +14,38 @@
 
 
 
+## Hi, I'm Estrella Iveth Flores Lucas 👩‍💻
+
+A front-end developer passionate about programming and solving technological challenges. I have experience in academic projects and am now seeking to broaden my professional experience to strengthen my skills and contribute to innovative solutions.
+
+### 🌱 Currently learning:
+- React.js
+- ChakraUI
+- Spring Boot
+
+### 👩‍💻 Areas of interest:
+- Web design
+- Interactive interface development
+- User experience optimization
+
+### 🤝 What motivates me:
+- Collaborating on open source projects
+- Learning new technologies and tools
+- Solving challenges as a team and sharing knowledge
+
+### 🛠️ Technical skills:
+- Languages: JavaScript, HTML, CSS, Java
+- Frameworks and libraries: React.js, Material UI, Bootstrap
+- Tools: Git, VS Code, Figma
+
+### 🌟 More about me:
+Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, and 🌴 exploring nature. I'm always looking for creative inspiration!
+
+📫 Reach me at: [estrellaflores550@gmail.com](mailto:estrellaflores550@gmail.com)  
+📂 Check out my projects: [Portfolio](https://estrellafff.netlify.app)
+
+
+
 
 
 
