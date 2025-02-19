@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Estrella Flores<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![image](https://github.com/user-attachments/assets/08cee0ef-bd98-4083-887d-bc9337446ce5)<h1 align="center">Hi , I'm Estrella Flores<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
@@ -28,10 +28,70 @@ A front-end developer passionate about programming and solving technological cha
 - Solving challenges as a team and sharing knowledge
 
 ### 🛠️ Technical skills:
-- Languages: JavaScript, HTML, CSS, Java
-- Frameworks and libraries: React.js, Material UI, Bootstrap
-- Tools: Git, VS Code, Figma
 
+<h3 align="center">Languages</h3>
+
+<p aling="center>
+ <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+  </a>
+  </p>
+  
+<h3 align="center">Frontend</h3>
+<p align="center">
+ <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+   <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  <h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+</p>
+<h3 align="center">Database</h3>
+<p align="center">
+<a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a>
+</p>
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+ <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
+</p>
+<h3 align="center">Preferred IDEs  & Tools :</h3>
+<p align="center"> 
+ <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+  </a>
+  
 ### 🌟 More about me:
 Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, and 🌴 exploring nature. I'm always looking for creative inspiration!
 
