@@ -37,7 +37,7 @@ Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, a
 📂 Check out my projects: [Portfolio](https://estrellafff.netlify.app)
 
 
-
+<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
 
 
 
