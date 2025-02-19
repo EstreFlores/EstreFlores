@@ -96,25 +96,17 @@ A front-end developer passionate about programming and solving technological cha
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
 </p>
-
 
 ### 🌟 More about me:
 Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, and 🌴 exploring nature. I'm always looking for creative inspiration!
 
 📫 Reach me at: [estrellaflores550@gmail.com](mailto:estrellaflores550@gmail.com)  
 📂 Check out my projects: [Portfolio](https://estrellafff.netlify.app)
-
-
-<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-</p>
-
-
-
-
-
 
