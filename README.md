@@ -110,3 +110,11 @@ Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, a
 📫 Reach me at: [estrellaflores550@gmail.com](mailto:estrellaflores550@gmail.com)  
 📂 Check out my projects: [Portfolio](https://estrellafff.netlify.app)
 
+
+<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+</p>
+
