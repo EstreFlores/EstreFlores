@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/08cee0ef-bd98-4083-887d-bc9337446ce5)<h1 align="center">Hi , I'm Estrella Flores<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
+<h1 align="center">Hi , I'm Estrella Flores<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Systems+Engineer;Front-End+Developer"></a>
@@ -14,7 +12,8 @@ A front-end developer passionate about programming and solving technological cha
 
 ### 🌱 Currently learning:
 - React.js
-- ChakraUI
+- Angular
+- Typescript
 - Spring Boot
 
 ### 👩‍💻 Areas of interest:
@@ -31,47 +30,53 @@ A front-end developer passionate about programming and solving technological cha
 
 <h3 align="center">Languages</h3>
 
-<p aling="center>
+<p align="center">
  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   </a>
-  </p>
-  
-<h3 align="center">Frontend</h3>
+</p>
+
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
    <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/> 
   </a>
-  <h3 align="center">Backend</h3>
+  <a href="https://chakra-ui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/chakraUI-319795.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  </a>
+  <a href="https://angular.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
+  </a>
+</p>
+
+<h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
   </a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
-<a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sql server"/> 
   </a>
 </p>
 <h3 align="center">Cloud & Hosting:</h3>
@@ -91,7 +96,9 @@ A front-end developer passionate about programming and solving technological cha
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
-  
+</p>
+
+
 ### 🌟 More about me:
 Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, and 🌴 exploring nature. I'm always looking for creative inspiration!
 
@@ -105,16 +112,6 @@ Outside the tech world, I enjoy 🎵 listening to music, 🎥 watching movies, a
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
 </p>
-
-
-
-
-
-
-
-
-
-
 
 
 
